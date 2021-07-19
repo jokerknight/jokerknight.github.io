@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.chenqinfeng.cn/"/>
-  <updated>2021-07-19T07:46:52.868Z</updated>
+  <updated>2021-07-14T08:58:05.000Z</updated>
   <id>http://www.chenqinfeng.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title> 目录</title>
+    <link href="http://www.chenqinfeng.cn/2021/07/14/mu-lu/"/>
+    <id>http://www.chenqinfeng.cn/2021/07/14/mu-lu/</id>
+    <published>2021-07-14T02:07:00.000Z</published>
+    <updated>2021-07-14T08:58:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><p>关于提纲<br>第一,好的写作提纲可以让你更加丰富的去考虑所要表达的内容<br>第二,让你在即定的范围内写作,不至于偏题,从而更加有利于表达自己的中心思想<br>第三,有利于控制文章的篇幅<br>第四,任务有序，节奏可控<br>下面的todo list 在后面慢慢写作的时候还需要逐渐补充，争取完善一个比较合理的目录</p><h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><h3 id="solid原则"><a href="#solid原则" class="headerlink" title="solid原则"></a>solid原则</h3><ul><li>单一责任原则 The Single Responsibility Principle </li><li>开放封闭原则 The Open Closed Principle </li><li>里氏替换原则 The Liskov Substitution Principle</li><li>依赖倒置原则 The Dependency Inversion Principle</li><li>接口分离原则 The Interface Segregation Principle</li></ul><h3 id="设计模式剖析"><a href="#设计模式剖析" class="headerlink" title="设计模式剖析"></a>设计模式剖析</h3><ul><li>抽象工厂模式</li><li>工厂方法</li><li>建造者模式</li><li>原型模式</li><li>单态模式</li><li>适配器模式</li><li>桥接模式</li><li>组合模式</li><li>外观模式</li><li>装饰者模式</li><li>享元模式</li><li>代理模式</li><li>责任链模式</li><li>命令模式</li><li>解释器模式</li><li>迭代模式</li><li>中介者模式</li><li>备忘录模式</li><li>观察者模式</li><li>状态模式</li><li>策略模式</li><li>模板方法模式</li><li>访问者模式</li></ul><h3 id="java虚拟机剖析"><a href="#java虚拟机剖析" class="headerlink" title="java虚拟机剖析"></a>java虚拟机剖析</h3><h3 id="java编译器源码解析"><a href="#java编译器源码解析" class="headerlink" title="java编译器源码解析"></a>java编译器源码解析</h3><h3 id="android高级篇"><a href="#android高级篇" class="headerlink" title="android高级篇"></a>android高级篇</h3><ul><li>架构篇</li><li>App启动流程剖析</li><li>UI高级</li><li>动画框架</li><li>性能优化</li><li>MVP，MVC，MVVM</li><li>注解与APT</li><li>模块化</li><li>组件化</li><li>插件化</li><li>Material Design</li><li>测试篇</li><li>运营和溯源</li></ul><h3 id="如何有效的管理时间"><a href="#如何有效的管理时间" class="headerlink" title="如何有效的管理时间"></a>如何有效的管理时间</h3><ul><li>概念篇</li><li>方法篇</li><li>工具篇</li></ul><h3 id="服务器篇"><a href="#服务器篇" class="headerlink" title="服务器篇"></a>服务器篇</h3><ul><li><a href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-mysql-configuration" title="ubuntu-mysql-configuration"><del>Ubuntu mysql configuration</del></a></li><li><a href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-ssh-algorithm-negotiation-failed" title="Ubuntu-SSH-Algorithm-negotiation-failed"><del>Ubuntu SSH Algorithm negotiation failed</del></a></li><li><a href="http://www.chenqinfeng.cn/2016/02/18/ubuntu-da-jian-java8-huan-jing" title="Ubuntu-build-Java8-environment"><del>Ubuntu搭建Java8环境</del></a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;计划&quot;&gt;&lt;a href=&quot;#计划&quot; class=&quot;headerlink&quot; title=&quot;计划&quot;&gt;&lt;/a&gt;计划&lt;/h1&gt;&lt;p&gt;关于提纲&lt;br&gt;第一,好的写作提纲可以让你更加丰富的去考虑所要表达的内容&lt;br&gt;第二,让你在即定的范围内写作,不至于偏题,从而更加有利于表达
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://www.chenqinfeng.cn/categories/Android/"/>
+    
+      <category term="目录" scheme="http://www.chenqinfeng.cn/categories/Android/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="plan" scheme="http://www.chenqinfeng.cn/tags/plan/"/>
+    
+      <category term="计划" scheme="http://www.chenqinfeng.cn/tags/%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="博客" scheme="http://www.chenqinfeng.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>树莓派PN532上复制门禁卡</title>
