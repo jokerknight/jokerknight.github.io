@@ -1,0 +1,11 @@
+/* Here is your custom css styles. */
+
+.bg-color-revert {
+    background-image: linear-gradient(to right, #1D65F1 0%, #1AD5FD 100%);
+}
+.douban {
+	background:url(medias/icons/douban.png) center left no-repeat; width:15px; height: 15px;
+}
+.csdn {
+	background:url(medias/icons/csdn.png) center left no-repeat; width:15px; height: 15px;
+}
