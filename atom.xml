@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>精通百晓生</title>
+  <icon>https://www.gravatar.com/avatar/cd2e0783ac1e874c82fe0242f07c7798</icon>
+  <subtitle>Keep Coding &amp; Keep Writing</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.chenqinfeng.cn/"/>
+  <updated>2021-11-22T09:37:45.477Z</updated>
+  <id>http://www.chenqinfeng.cn/</id>
+  
+  <author>
+    <name>ChenQinfeng</name>
+    <email>androidchenqinfeng@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>目录</title>
+    <link href="http://www.chenqinfeng.cn/2021/11/22/mu-lu/"/>
+    <id>http://www.chenqinfeng.cn/2021/11/22/mu-lu/</id>
+    <published>2021-11-22T08:38:00.000Z</published>
+    <updated>2021-11-22T09:37:45.477Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h1><p>关于提纲<br>第一,好的写作提纲可以让你更加丰富的去考虑所要表达的内容<br>第二,让你在即定的范围内写作,不至于偏题,从而更加有利于表达自己的中心思想<br>第三,有利于控制文章的篇幅<br>第四,任务有序，节奏可控<br>下面的todo list 在后面慢慢写作的时候还需要逐渐补充，争取完善一个比较合理的目录</p><h2 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h2><h3 id="solid原则"><a href="#solid原则" class="headerlink" title="solid原则"></a>solid原则</h3><ul><li>单一责任原则 The Single Responsibility Principle</li><li>开放封闭原则 The Open Closed Principle</li><li>里氏替换原则 The Liskov Substitution Principle</li><li>依赖倒置原则 The Dependency Inversion Principle</li><li>接口分离原则 The Interface Segregation Principle</li></ul><h3 id="设计模式剖析"><a href="#设计模式剖析" class="headerlink" title="设计模式剖析"></a>设计模式剖析</h3><ul><li>抽象工厂模式</li><li>工厂方法</li><li>建造者模式</li><li>原型模式</li><li>单态模式</li><li>适配器模式</li><li>桥接模式</li><li>组合模式</li><li>外观模式</li><li>装饰者模式</li><li>享元模式</li><li>代理模式</li><li>责任链模式</li><li>命令模式</li><li>解释器模式</li><li>迭代模式</li><li>中介者模式</li><li>备忘录模式</li><li>观察者模式</li><li>状态模式</li><li>策略模式</li><li>模板方法模式</li><li>访问者模式</li></ul><h3 id="java虚拟机剖析"><a href="#java虚拟机剖析" class="headerlink" title="java虚拟机剖析"></a>java虚拟机剖析</h3><h3 id="java编译器源码解析"><a href="#java编译器源码解析" class="headerlink" title="java编译器源码解析"></a>java编译器源码解析</h3><h3 id="android高级篇"><a href="#android高级篇" class="headerlink" title="android高级篇"></a>android高级篇</h3><ul><li><a href="https://chenqinfeng.cn/2021/07/29/android-yuan-ma-bian-yi/"><del>android源码编译</del></a></li><li>android制作rom</li><li>架构篇</li><li>App启动流程剖析</li><li>UI高级</li><li>动画框架</li><li>性能优化</li><li>MVP，MVC，MVVM</li><li>注解与APT</li><li>模块化</li><li>组件化</li><li>插件化</li><li>Material Design</li><li>测试篇</li><li>运营和溯源</li></ul><h3 id="如何有效的管理时间"><a href="#如何有效的管理时间" class="headerlink" title="如何有效的管理时间"></a>如何有效的管理时间</h3><ul><li>概念篇</li><li>方法篇</li><li>工具篇</li></ul><h3 id="服务器篇"><a href="#服务器篇" class="headerlink" title="服务器篇"></a>服务器篇</h3><ul><li><a href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-mysql-configuration"><del>Ubuntu mysql configuration</del></a></li><li><a href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-ssh-algorithm-negotiation-failed"><del>Ubuntu SSH Algorithm negotiation failed</del></a></li><li><a href="http://www.chenqinfeng.cn/2016/02/18/ubuntu-da-jian-java8-huan-jing"><del>Ubuntu搭建Java8环境</del></a></li></ul><h3 id="IOT"><a href="#IOT" class="headerlink" title="IOT"></a>IOT</h3><ul><li><a href="https://chenqinfeng.cn/2019/11/14/shu-mei-pai-yu-pn532-po-jie-men-jin-qia/"><del>树莓派PN532上复制门禁卡</del></a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;计划&quot;&gt;&lt;a href=&quot;#计划&quot; class=&quot;headerlink&quot; title=&quot;计划&quot;&gt;&lt;/a&gt;计划&lt;/h1&gt;&lt;p&gt;关于提纲&lt;br&gt;第一,好的写作提纲可以让你更加丰富的去考虑所要表达的内容&lt;br&gt;第二,让你在即定的范围内写作,不至于偏题,从而更加有利于表达
+      
+    
+    </summary>
+    
+      <category term="目录" scheme="http://www.chenqinfeng.cn/categories/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="目录" scheme="http://www.chenqinfeng.cn/tags/%E7%9B%AE%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android源码编译</title>
+    <link href="http://www.chenqinfeng.cn/2021/05/09/android-yuan-ma-bian-yi/"/>
+    <id>http://www.chenqinfeng.cn/2021/05/09/android-yuan-ma-bian-yi/</id>
+    <published>2021-05-09T02:07:00.000Z</published>
+    <updated>2021-11-22T09:40:52.814Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="成果图"><a href="#成果图" class="headerlink" title="成果图"></a>成果图</h2><p><img src="http://photo.7tyd.com/img/20210729185244.png" alt="img"></p><h2 id="编译环境搭建"><a href="#编译环境搭建" class="headerlink" title="编译环境搭建"></a>编译环境搭建</h2><h3 id="1-创建磁盘"><a href="#1-创建磁盘" class="headerlink" title="1.创建磁盘"></a>1.创建磁盘</h3><pre class=" language-bash"><code class="language-bash">hdiutil create -type SPARSE -fs <span class="token string">'Case-sensitive Journaled HFS+'</span> -size 300g ~/android.dmg</code></pre><p>创建一个叫~/android.dmg的挂载磁盘 大小建议300G,因为我编译最新的android11系统 花去了249G的空间</p><p><img src="http://photo.7tyd.com/img/20210729175549.png" alt="空间占用"></p><p><strong>空间占用</strong></p><p>如果需要修改磁盘则 使用该命令操作</p><pre class=" language-bash"><code class="language-bash">hdiutil resize -size <span class="token operator">&lt;</span>new-size-you-want<span class="token operator">></span>g ~/android.dmg.sparseimage</code></pre><h3 id="2-挂载磁盘"><a href="#2-挂载磁盘" class="headerlink" title="2.挂载磁盘"></a>2.挂载磁盘</h3><pre class=" language-bash"><code class="language-bash">hdiutil attach ~/android.dmg.sparseimage -mountpoint /Volumes/android</code></pre><p>选择挂载对应的磁盘和挂载点,选择Volumes下的android文件夹</p><p>如果需要卸载已挂载磁盘则,使用前请确保磁盘已完整无占用</p><pre class=" language-bash"><code class="language-bash">hdiutil detach /Volumes/android</code></pre><h3 id="3-安装需要的依赖包"><a href="#3-安装需要的依赖包" class="headerlink" title="3.安装需要的依赖包"></a>3.安装需要的依赖包</h3><ul><li>安装Xcode命令行</li></ul><pre class=" language-bash"><code class="language-bash">xcode-select --install</code></pre><ul><li><p>通过 <a href="http://www.macports.org/install.php">macports.org</a> 安装 MacPorts。</p><p>安装完后将该环境变量添加到对应的profile文件 zsh对应 ~/.zshrc , bash对应 ~/.bash_profile</p><pre class=" language-bash"><code class="language-bash"><span class="token function">export</span> PATH<span class="token operator">=</span>/opt/local/bin:<span class="token variable">$PATH</span></code></pre></li><li><p>安装gmake, libsdl, git, gnupg, bison</p><pre class=" language-bash"><code class="language-bash">POSIXLY_CORRECT<span class="token operator">=</span>1 <span class="token function">sudo</span> port <span class="token function">install</span> gmake libsdl <span class="token function">git</span> gnupg bison</code></pre></li></ul><h3 id="4-设置文件描述符上限制"><a href="#4-设置文件描述符上限制" class="headerlink" title="4.设置文件描述符上限制"></a>4.设置文件描述符上限制</h3><pre class=" language-bash"><code class="language-bash"><span class="token function">ulimit</span> -S -n 4096</code></pre><p>建议设置大一些，取决于 后续使用的make -jx对应的核心数，核心数越大同时打开的文件越多，设置小了很容易就超出了对应的大小</p><h3 id="5-ccache"><a href="#5-ccache" class="headerlink" title="5.ccache"></a>5.ccache</h3><p>可参考 <a href="https://source.android.com/source/initializing?hl=zh-cn#ccache">https://source.android.com/source/initializing?hl=zh-cn#ccache</a></p><p>我没有设置，编译也是一次通过</p><h2 id="下载源代码"><a href="#下载源代码" class="headerlink" title="下载源代码"></a>下载源代码</h2><h3 id="1-创建工作目录"><a href="#1-创建工作目录" class="headerlink" title="1.创建工作目录"></a>1.创建工作目录</h3><pre class=" language-bash"><code class="language-bash"><span class="token function">mkdir</span> WORKING_DIRECTORY<span class="token function">cd</span> WORKING_DIRECTORY</code></pre><h3 id="2-安装repo启动器"><a href="#2-安装repo启动器" class="headerlink" title="2.安装repo启动器"></a>2.安装repo启动器</h3><pre class=" language-bash"><code class="language-bash"><span class="token function">mkdir</span> ~/binPATH<span class="token operator">=</span>~/bin:<span class="token variable">$PATH</span>curl https://storage.googleapis.com/git-repo-downloads/repo <span class="token operator">></span> ~/bin/repo<span class="token function">chmod</span> a+x ~/bin/repo</code></pre><h3 id="3-初始化repo"><a href="#3-初始化repo" class="headerlink" title="3.初始化repo"></a>3.初始化repo</h3><pre class=" language-bash"><code class="language-bash">repo init -u https://android.googlesource.com/platform/manifest</code></pre><p>我使用的是google自己的源码地址，可以改成国内的源码镜像站</p><p>如需要选择对应的编译分支</p><pre class=" language-bash"><code class="language-bash">repo init -u https://android.googlesource.com/platform/manifest -b <span class="token operator">&lt;</span>branch what you need<span class="token operator">></span></code></pre><p>可进入网站<a href="https://android.googlesource.com/platform/manifest/+refs%E6%9F%A5%E7%9C%8B%E5%AF%B9%E5%BA%94%E7%9A%84branch%E5%88%97%E8%A1%A8">https://android.googlesource.com/platform/manifest/+refs查看对应的branch列表</a> 选择对应的b ranch</p><h3 id="4-在工作目录下同步代码"><a href="#4-在工作目录下同步代码" class="headerlink" title="4.在工作目录下同步代码"></a>4.在工作目录下同步代码</h3><pre class=" language-bash"><code class="language-bash">repo <span class="token function">sync</span> -c -j8</code></pre><p>-c指定当前分支 -j8 指定线程</p><p>不出问题很快代码就同步完成了</p><h2 id="编译源代码"><a href="#编译源代码" class="headerlink" title="编译源代码"></a>编译源代码</h2><h3 id="1-脚本初始化环境"><a href="#1-脚本初始化环境" class="headerlink" title="1.脚本初始化环境"></a>1.脚本初始化环境</h3><pre class=" language-bash"><code class="language-bash"><span class="token function">source</span> build/envsetup.sh</code></pre><h3 id="2-选择编译平台"><a href="#2-选择编译平台" class="headerlink" title="2.选择编译平台"></a>2.选择编译平台</h3><pre class=" language-bash"><code class="language-bash">lunch</code></pre><p>选择对应的平台,比如x86-64位的就选择对应的平台</p><h3 id="3-开始编译"><a href="#3-开始编译" class="headerlink" title="3.开始编译"></a>3.开始编译</h3><pre class=" language-bash"><code class="language-bash"><span class="token function">make</span> -j8</code></pre><p>-jx 对应开启核心进行编译，编译完成会提示该信息</p><pre><code>#### build completed successfully (23:29:05 (hh:mm:ss)) ####</code></pre><p>如果有报错参考官方文档进行排错</p><h2 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h2><pre class=" language-bash"><code class="language-bash">emulator</code></pre><p>假如报错</p><pre class=" language-bash"><code class="language-bash">emulator: ERROR: Can<span class="token string">'t find '</span>Linux version ' string <span class="token keyword">in</span> kernel image file: /Volumes/android/WORKING_DIRECTORY/out/target/product/generic_x86_64/kernel-ranchu</code></pre><p>请检查emulator 目录</p><pre class=" language-bash"><code class="language-bash"><span class="token function">which</span> emulator    </code></pre><p>假设是prebuild内的emulator 替换成 android studio 内的emulator 运行</p><p>参考文献</p><ul><li><a href="https://source.android.com/source/initializing?hl=zh-cn#ccache">https://source.android.com/source/initializing?hl=zh-cn#ccache</a></li><li><a href="https://source.android.com/setup/build/downloading">https://source.android.com/setup/build/downloading</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;成果图&quot;&gt;&lt;a href=&quot;#成果图&quot; class=&quot;headerlink&quot; title=&quot;成果图&quot;&gt;&lt;/a&gt;成果图&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://photo.7tyd.com/img/20210729185244.png&quot; alt=&quot;img&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://www.chenqinfeng.cn/categories/Android/"/>
+    
+      <category term="源码" scheme="http://www.chenqinfeng.cn/categories/Android/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="编译" scheme="http://www.chenqinfeng.cn/categories/Android/%E6%BA%90%E7%A0%81/%E7%BC%96%E8%AF%91/"/>
+    
+    
+      <category term="Android" scheme="http://www.chenqinfeng.cn/tags/Android/"/>
+    
+      <category term="源码" scheme="http://www.chenqinfeng.cn/tags/%E6%BA%90%E7%A0%81/"/>
+    
+      <category term="编译" scheme="http://www.chenqinfeng.cn/tags/%E7%BC%96%E8%AF%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>树莓派PN532上复制门禁卡</title>
+    <link href="http://www.chenqinfeng.cn/2019/11/14/shu-mei-pai-yu-pn532-po-jie-men-jin-qia/"/>
+    <id>http://www.chenqinfeng.cn/2019/11/14/shu-mei-pai-yu-pn532-po-jie-men-jin-qia/</id>
+    <published>2019-11-14T08:38:00.000Z</published>
+    <updated>2021-11-22T08:29:04.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="树莓派PN532上复制门禁卡"><a href="#树莓派PN532上复制门禁卡" class="headerlink" title="树莓派PN532上复制门禁卡"></a>树莓派PN532上复制门禁卡</h1><p><img src="http://photo.7tyd.com/img/WechatIMG2.jpeg" alt="成果图"></p><h2 id="物品清单"><a href="#物品清单" class="headerlink" title="物品清单"></a>物品清单</h2><p><strong>1.树莓派4x1</strong></p><p><strong>2.T型面包板x1</strong></p><p><strong>3.PN532 NFC模块x1</strong></p><p><strong>4.可改写0扇区的rfid卡</strong></p><p>以上所有材料均可在淘宝采购</p><h2 id="接线"><a href="#接线" class="headerlink" title="接线"></a>接线</h2><p>该模块分为I2C与SPI两种接线模式，我使用的是I2C模式，所以本文只讲I2C<br>改为i2c模式</p><table><thead><tr><th>SEL0</th><th>SEL1</th></tr></thead><tbody><tr><td>H</td><td>L</td></tr></tbody></table><p>对应的映射为</p><table><thead><tr><th>PN532</th><th>Raspberry</th></tr></thead><tbody><tr><td>5V</td><td>5V</td></tr><tr><td>GND</td><td>GND</td></tr><tr><td>SDA</td><td>SDA0(3V3下方)</td></tr><tr><td>SCL</td><td>SCL0(SDA0下方)</td></tr></tbody></table><p>具体可参考<a href="http://wiki.sunfounder.cc/index.php?title=PN532_NFC_Module_for_Raspberry_Pi">PN532 WIKI</a>.</p><h2 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h2><ul><li><p>如果之前配置过NFC<br>执行<code>sudo rm -rf /etc/nfc</code>删除之前的配置</p></li><li><p>打开树莓拍i2c接口<br>Interfacing Options -&gt; I2C -&gt; yes.</p></li><li><p>安装依赖</p><pre><code>sudo apt-get updatesudo apt-get install libusb-dev libpcsclite-dev i2c-tools`</code></pre></li><li><p>下载libnfc</p><pre><code>cd ~wget http://dl.bintray.com/nfc-tools/sources/libnfc-1.7.1.tar.bz2tar -xf libnfc-1.7.1.tar.bz2  </code></pre></li><li><p>编译</p><pre><code>cd libnfc-1.7.1./configure --prefix=/usr --sysconfdir=/etcmakesudo make install </code></pre></li><li><p>配置libnfc</p><pre><code>cd /etcsudo mkdir nfcsudo nano /etc/nfc/libnfc.conf</code></pre><p>填入以下内容</p></li></ul><pre class=" language-bash"><code class="language-bash"><span class="token comment" spellcheck="true"># Allow device auto-detection (default: true)</span><span class="token comment" spellcheck="true"># Note: if this auto-detection is disabled, user has to set manually a device</span><span class="token comment" spellcheck="true"># configuration using file or environment variable</span>allow_autoscan <span class="token operator">=</span> <span class="token boolean">true</span><span class="token comment" spellcheck="true"># Allow intrusive auto-detection (default: false)</span><span class="token comment" spellcheck="true"># Warning: intrusive auto-detection can seriously disturb other devices</span><span class="token comment" spellcheck="true"># This option is not recommended, user should prefer to add manually his device.</span>allow_intrusive_scan <span class="token operator">=</span> <span class="token boolean">false</span><span class="token comment" spellcheck="true"># Set log level (default: error)</span><span class="token comment" spellcheck="true"># Valid log levels are (in order of verbosity): 0 (none), 1 (error), 2 (info), 3 (debug)</span><span class="token comment" spellcheck="true"># Note: if you compiled with --enable-debug option, the default log level is "debug"</span>log_level <span class="token operator">=</span> 1<span class="token comment" spellcheck="true"># Manually set default device (no default)</span><span class="token comment" spellcheck="true"># To set a default device, you must set both name and connstring for your device</span><span class="token comment" spellcheck="true"># Note: if autoscan is enabled, default device will be the first device available in device list.</span><span class="token comment" spellcheck="true">#device.name = "_PN532_SPI"</span><span class="token comment" spellcheck="true">#device.connstring = "pn532_spi:/dev/spidev0.0:500000"</span>device.name <span class="token operator">=</span> <span class="token string">"_PN532_I2c"</span>device.connstring <span class="token operator">=</span> <span class="token string">"pn532_i2c:/dev/i2c-1"</span></code></pre><ul><li>接好线配置好后重启设备，检测是否成功<pre><code>i2cdetect –y 1 nfc-list</code></pre>显示以下内容则成功<br><img src="http://photo.7tyd.com/img/20191114162506.png"></li></ul><h2 id="破解"><a href="#破解" class="headerlink" title="破解"></a>破解</h2><ul><li><p>安装mfoc与mfcuk<br>mfoc（破解key，读出数据到文件）：<a href="https://github.com/nfc-tools/mfoc">https://github.com/nfc-tools/mfoc</a><br>mfuck（破解全加密数据）：<a href="https://github.com/nfc-tools/mfcuk">https://github.com/nfc-tools/mfcuk</a><br>后两个下载解压后切换到目录里执行：</p><pre><code>automakeautoconfautoreconf -is./configuremakemake install</code></pre></li><li><p>修改UID<br>由于国内大部分门禁卡只是基于UID做识别，所以只需要修改RFID的UID，也就是0扇区，就行了，所以我们需要去采购0扇区可写的rfid卡，复制改写就行了,具体参考<a href="https://www.mankier.com/1/nfc-mfsetuid">nfc-mfsetuid</a></p><pre><code>nfc-mfsetuid [ UID ]</code></pre><p>写完uid后再运行</p><pre><code>nfc-list</code></pre><p>比对新老卡 uid 是否一致,一致则大功告成！</p></li></ul><p>参考文献 <a href="http://wiki.sunfounder.cc/index.php?title=PN532_NFC_Module_for_Raspberry_Pi">PN532 WIKI</a>，<a href="https://www.mankier.com/1/nfc-mfsetuid">nfc-mfsetuid</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;树莓派PN532上复制门禁卡&quot;&gt;&lt;a href=&quot;#树莓派PN532上复制门禁卡&quot; class=&quot;headerlink&quot; title=&quot;树莓派PN532上复制门禁卡&quot;&gt;&lt;/a&gt;树莓派PN532上复制门禁卡&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://photo
+      
+    
+    </summary>
+    
+      <category term="树莓派" scheme="http://www.chenqinfeng.cn/categories/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+    
+      <category term="树莓派" scheme="http://www.chenqinfeng.cn/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+    
+      <category term="PN532" scheme="http://www.chenqinfeng.cn/tags/PN532/"/>
+    
+      <category term="门禁卡" scheme="http://www.chenqinfeng.cn/tags/%E9%97%A8%E7%A6%81%E5%8D%A1/"/>
+    
+      <category term="破解" scheme="http://www.chenqinfeng.cn/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go语言初学大纲</title>
+    <link href="http://www.chenqinfeng.cn/2019/05/09/go-yu-yan-chu-xue-da-gang/"/>
+    <id>http://www.chenqinfeng.cn/2019/05/09/go-yu-yan-chu-xue-da-gang/</id>
+    <published>2019-05-09T02:07:00.000Z</published>
+    <updated>2021-11-22T09:39:30.354Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Go语言初学大纲"><a href="#Go语言初学大纲" class="headerlink" title="Go语言初学大纲"></a>Go语言初学大纲</h1><h2 id="Go语言介绍"><a href="#Go语言介绍" class="headerlink" title="Go语言介绍"></a>Go语言介绍</h2><h2 id="Go语言应用"><a href="#Go语言应用" class="headerlink" title="Go语言应用"></a>Go语言应用</h2><h2 id="Go语言环境搭建"><a href="#Go语言环境搭建" class="headerlink" title="Go语言环境搭建"></a>Go语言环境搭建</h2><h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><h4 id="Mac"><a href="#Mac" class="headerlink" title="Mac"></a>Mac</h4><h4 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h4><h3 id="HelloWorld"><a href="#HelloWorld" class="headerlink" title="HelloWorld"></a>HelloWorld</h3><h2 id="Go语言语法学习"><a href="#Go语言语法学习" class="headerlink" title="Go语言语法学习"></a>Go语言语法学习</h2><p>基本类型</p><p>包概念</p><p>函数和常量</p><p>值类型和引用类型</p><p>函数参数传递</p><p>数据类型和操作符</p><p>字符串操作</p><p>时间类型和指针类型</p><p>流程控制</p><p>函数详解</p><p>内置函数和递归函数</p><p>闭包</p><p>数组</p><p>map</p><p>排序</p><p>结构体和链表</p><p>二叉树</p><p>结构体与方法</p><p>接口</p><p>反射</p><p>终端读写</p><p>文件读写</p><p>错误处理</p><p>route</p><p>channel</p><p>定时器</p><p>单元测试</p><p>并发与协程</p><p>基于消息传递的通信方式</p><p>丰富实用的内置数据类型</p><p>函数多返回值</p><p>defer机制</p><p>反射(reflect)</p><p>高性能HTTP Server</p><p>工程管理</p><p>编程规范</p><p>go与web</p><h2 id="Go语言项目实战"><a href="#Go语言项目实战" class="headerlink" title="Go语言项目实战"></a>Go语言项目实战</h2><p>Go语言</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Go语言初学大纲&quot;&gt;&lt;a href=&quot;#Go语言初学大纲&quot; class=&quot;headerlink&quot; title=&quot;Go语言初学大纲&quot;&gt;&lt;/a&gt;Go语言初学大纲&lt;/h1&gt;&lt;h2 id=&quot;Go语言介绍&quot;&gt;&lt;a href=&quot;#Go语言介绍&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+      <category term="Android" scheme="http://www.chenqinfeng.cn/categories/Android/"/>
+    
+      <category term="目录" scheme="http://www.chenqinfeng.cn/categories/Android/%E7%9B%AE%E5%BD%95/"/>
+    
+    
+      <category term="plan" scheme="http://www.chenqinfeng.cn/tags/plan/"/>
+    
+      <category term="计划" scheme="http://www.chenqinfeng.cn/tags/%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="Go" scheme="http://www.chenqinfeng.cn/tags/Go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu mysql configuration</title>
+    <link href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-mysql-configuration/"/>
+    <id>http://www.chenqinfeng.cn/2016/02/19/ubuntu-mysql-configuration/</id>
+    <published>2016-02-19T05:38:00.000Z</published>
+    <updated>2021-11-22T08:29:04.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ubuntu-mysql-configuration"><a href="#Ubuntu-mysql-configuration" class="headerlink" title="Ubuntu mysql configuration"></a>Ubuntu mysql configuration</h1><hr><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><pre><code>apt-get install mysql-server </code></pre><p>During the setup it will prompts you set root password, be sure to keep in mind importantly! </p><hr><hr><h2 id="Check"><a href="#Check" class="headerlink" title="Check"></a>Check</h2><h3 id="Login"><a href="#Login" class="headerlink" title="Login"></a>Login</h3><pre><code>mysql -u root -p </code></pre><p>then enter the password which set during the setup.</p><h3 id="DDL-DML-DDL"><a href="#DDL-DML-DDL" class="headerlink" title="DDL/DML/DDL"></a>DDL/DML/DDL</h3><ul><li>DDL</li></ul><table><thead><tr><th>COMMOND</th><th align="center">DESCRIPTION</th></tr></thead><tbody><tr><td>CREATE</td><td align="center">create tables/view/object</td></tr><tr><td>ALTER</td><td align="center">alter object</td></tr><tr><td>DROP</td><td align="center">drop databases/tables/view</td></tr></tbody></table><ul><li>DML</li></ul><table><thead><tr><th>COMMOND</th><th align="center">DESCRIPTION</th></tr></thead><tbody><tr><td>SELECT</td><td align="center">query record from one or multiple tables</td></tr><tr><td>INSERT</td><td align="center">create record</td></tr><tr><td>UPDATE</td><td align="center">update record</td></tr><tr><td>DELETE</td><td align="center">delete record</td></tr><tr><td></td><td align="center"></td></tr></tbody></table><ul><li>DDL</li></ul><table><thead><tr><th>COMMOND</th><th align="center">DESCRIPTION</th></tr></thead><tbody><tr><td>GRANT</td><td align="center">granted permission</td></tr><tr><td>REVOKE</td><td align="center">recycle permission</td></tr></tbody></table><p>and others.</p><hr><hr><h2 id="Configuration"><a href="#Configuration" class="headerlink" title="Configuration"></a>Configuration</h2><h3 id="Allow-NetWork-Access"><a href="#Allow-NetWork-Access" class="headerlink" title="Allow NetWork Access"></a>Allow NetWork Access</h3><ul><li><p>Check 3306 port</p><pre><code> netstat -an|grep 3306 tcp6    0      0     127.0.0.1:3306    LISTEN</code></pre><p> look at that  it’s just allow local to access 3306 port </p></li><li><p>Allow access everywhere </p><pre><code> vi /etc/mysql/mysql.conf.d/mysqld.cnf</code></pre><p> comments bind-address = 127.0.0.1 </p></li></ul><ul><li><p>Restart Ubuntu </p><pre><code> shutdown -r now</code></pre></li><li><p>Check 3306 port again</p><pre><code> netstat -an|grep 3306 tcp6    0      0     :::3306    LISTEN</code></pre><p>This means that you can use port 3306 to access mysql success! </p></li></ul><h3 id="Update-root-access-permission"><a href="#Update-root-access-permission" class="headerlink" title="Update root access permission"></a>Update root access permission</h3><pre><code>    sudo mysql -u root -p      mysql&gt;grant all privileges on *.* to &#39;root&#39;@&#39;%&#39; identified by &#39;xxxxxx&#39;;</code></pre><p>xxxxx is password.<br>then let settings available.</p><pre><code>mysql&gt;flush privileges;​</code></pre><h3 id="Restart-mysql-service"><a href="#Restart-mysql-service" class="headerlink" title="Restart mysql service"></a>Restart mysql service</h3><p> if you have some other custom configuration, such as buffer_pool_size/log_file_size or others, you should restart you mysql service.</p><pre><code>service mysql restart </code></pre><hr><hr><h2 id="Finally"><a href="#Finally" class="headerlink" title="Finally"></a>Finally</h2><p>Congratulations! you have success resolved Ubuntu Mysql Configuration!<br>now, you can access mysql via mysql client or program success!</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Ubuntu-mysql-configuration&quot;&gt;&lt;a href=&quot;#Ubuntu-mysql-configuration&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu mysql configuration&quot;&gt;&lt;/a&gt;Ubuntu m
+      
+    
+    </summary>
+    
+      <category term="服务器" scheme="http://www.chenqinfeng.cn/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://www.chenqinfeng.cn/tags/Ubuntu/"/>
+    
+      <category term="mysql" scheme="http://www.chenqinfeng.cn/tags/mysql/"/>
+    
+      <category term="3306端口" scheme="http://www.chenqinfeng.cn/tags/3306%E7%AB%AF%E5%8F%A3/"/>
+    
+      <category term="外网访问" scheme="http://www.chenqinfeng.cn/tags/%E5%A4%96%E7%BD%91%E8%AE%BF%E9%97%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu SSH Algorithm negotiation failed</title>
+    <link href="http://www.chenqinfeng.cn/2016/02/19/ubuntu-ssh-algorithm-negotiation-failed/"/>
+    <id>http://www.chenqinfeng.cn/2016/02/19/ubuntu-ssh-algorithm-negotiation-failed/</id>
+    <published>2016-02-19T03:38:00.000Z</published>
+    <updated>2021-11-22T08:29:04.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ubuntu-SSH-Algorithm-negotiation-failed"><a href="#Ubuntu-SSH-Algorithm-negotiation-failed" class="headerlink" title="Ubuntu SSH Algorithm negotiation failed"></a>Ubuntu SSH Algorithm negotiation failed</h1><h2 id="Situation"><a href="#Situation" class="headerlink" title="Situation"></a>Situation</h2><pre class=" language-java"><code class="language-java">Server responded<span class="token string">"Algorithm negotiation failed"</span>Key exchange with the remote host failed<span class="token punctuation">.</span> This can happen <span class="token keyword">for</span>example computer does not support the selected  algorthms<span class="token punctuation">.</span> </code></pre><p>When ssh to a ubuntu system,putty can connect but ‘SSH Secure Shell Client’ is failed,according to the pop-up error message we can know that<br>the algorithm negotiation failed, after searching high-and-low for this fix, I finally found it’s fix…</p><h2 id="Reason"><a href="#Reason" class="headerlink" title="Reason"></a>Reason</h2><p>Because i had past updated server, it’s that means i had updated the sshd algorithm negotiation on server meanwhile, but the sshd algorithm negotiation in  client is the old, so server cannot compatible the algorithm negotiation from client.</p><h2 id="The-Way-to-resolve"><a href="#The-Way-to-resolve" class="headerlink" title="The Way to resolve"></a>The Way to resolve</h2><ol><li>Use a different system or the console to drop to a shell. Such as Putty </li><li>Chmod 777 &amp; Edit the “/etc/ssh/sshd_config” file </li><li>Add all of the algorithm negotiation to sshd_config  </li><li>Restart sshd sevice<br>Add following code to sshd_config</li></ol><pre class=" language-java"><code class="language-java">Ciphers aes128<span class="token operator">-</span>cbc<span class="token punctuation">,</span>aes192<span class="token operator">-</span>cbc<span class="token punctuation">,</span>aes256<span class="token operator">-</span>cbc<span class="token punctuation">,</span>aes128<span class="token operator">-</span>ctr<span class="token punctuation">,</span>aes192<span class="token operator">-</span>ctr<span class="token punctuation">,</span>aes256<span class="token operator">-</span>ctr<span class="token punctuation">,</span>3des<span class="token operator">-</span>cbc<span class="token punctuation">,</span>arcfour128<span class="token punctuation">,</span>arcfour256<span class="token punctuation">,</span>arcfour<span class="token punctuation">,</span>blowfish<span class="token operator">-</span>cbc<span class="token punctuation">,</span>cast128<span class="token operator">-</span>cbcMACs hmac<span class="token operator">-</span>md5<span class="token punctuation">,</span>hmac<span class="token operator">-</span>sha1<span class="token punctuation">,</span>umac<span class="token operator">-</span><span class="token number">64</span><span class="token annotation punctuation">@openssh</span><span class="token punctuation">.</span>com<span class="token punctuation">,</span>hmac<span class="token operator">-</span>ripemd160<span class="token punctuation">,</span>hmac<span class="token operator">-</span>sha1<span class="token operator">-</span><span class="token number">96</span><span class="token punctuation">,</span>hmac<span class="token operator">-</span>md5<span class="token operator">-</span><span class="token number">96</span>KexAlgorithms diffie<span class="token operator">-</span>hellman<span class="token operator">-</span>group1<span class="token operator">-</span>sha1<span class="token punctuation">,</span>diffie<span class="token operator">-</span>hellman<span class="token operator">-</span>group14<span class="token operator">-</span>sha1<span class="token punctuation">,</span>diffie<span class="token operator">-</span>hellman<span class="token operator">-</span>group<span class="token operator">-</span>exchange<span class="token operator">-</span>sha1<span class="token punctuation">,</span>diffie<span class="token operator">-</span>hellman<span class="token operator">-</span>group<span class="token operator">-</span>exchange<span class="token operator">-</span>sha256<span class="token punctuation">,</span>ecdh<span class="token operator">-</span>sha2<span class="token operator">-</span>nistp256<span class="token punctuation">,</span>ecdh<span class="token operator">-</span>sha2<span class="token operator">-</span>nistp384<span class="token punctuation">,</span>ecdh<span class="token operator">-</span>sha2<span class="token operator">-</span>nistp521<span class="token punctuation">,</span>diffie<span class="token operator">-</span>hellman<span class="token operator">-</span>group1<span class="token operator">-</span>sha1<span class="token punctuation">,</span>curve25519<span class="token operator">-</span>sha256<span class="token annotation punctuation">@libssh</span><span class="token punctuation">.</span>org</code></pre><pre class=" language-java"><code class="language-java">root<span class="token annotation punctuation">@ubuntu</span><span class="token operator">:</span><span class="token operator">/</span>home<span class="token operator">/</span>app# chmod <span class="token number">777</span> <span class="token operator">/</span>etc<span class="token operator">/</span>ssh<span class="token operator">/</span>sshd_configroot<span class="token annotation punctuation">@ubuntu</span><span class="token operator">:</span><span class="token operator">/</span>home<span class="token operator">/</span>app# vi <span class="token operator">/</span>etc<span class="token operator">/</span>ssh<span class="token operator">/</span>sshd_configroot<span class="token annotation punctuation">@ubuntu</span><span class="token operator">:</span><span class="token operator">/</span>home<span class="token operator">/</span>app# service sshd restart</code></pre><h2 id="Finally"><a href="#Finally" class="headerlink" title="Finally"></a>Finally</h2><p>Congratulations! you have success resolved Algorithm negotiation failed</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Ubuntu-SSH-Algorithm-negotiation-failed&quot;&gt;&lt;a href=&quot;#Ubuntu-SSH-Algorithm-negotiation-failed&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu SSH Alg
+      
+    
+    </summary>
+    
+      <category term="服务器" scheme="http://www.chenqinfeng.cn/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="ssh" scheme="http://www.chenqinfeng.cn/tags/ssh/"/>
+    
+      <category term="Ubuntu" scheme="http://www.chenqinfeng.cn/tags/Ubuntu/"/>
+    
+      <category term="Algorithm negotiation failed" scheme="http://www.chenqinfeng.cn/tags/Algorithm-negotiation-failed/"/>
+    
+  </entry>
+  
+  <entry>
+    <title> Ubuntu build Java8 environment</title>
+    <link href="http://www.chenqinfeng.cn/2016/02/18/ubuntu-da-jian-java8-huan-jing/"/>
+    <id>http://www.chenqinfeng.cn/2016/02/18/ubuntu-da-jian-java8-huan-jing/</id>
+    <published>2016-02-18T09:54:00.000Z</published>
+    <updated>2021-11-22T08:29:04.184Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ubuntu-build-Java8-environment"><a href="#Ubuntu-build-Java8-environment" class="headerlink" title="Ubuntu build Java8 environment"></a>Ubuntu build Java8 environment</h1><h2 id="Check-if-exsit"><a href="#Check-if-exsit" class="headerlink" title="Check if exsit"></a>Check if exsit</h2><pre class=" language-java"><code class="language-java">java <span class="token operator">-</span>version</code></pre><p>if exsit will prompt that your current installed java version.</p><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><p>First you need to add webupd8team Java PPA repository in your system and install Oracle Java 8 using following set of commands.</p><pre class=" language-java"><code class="language-java">$ sudo add<span class="token operator">-</span>apt<span class="token operator">-</span>repository ppa<span class="token operator">:</span>webupd8team<span class="token operator">/</span>java$ sudo apt<span class="token operator">-</span>get update$ sudo apt<span class="token operator">-</span>get install oracle<span class="token operator">-</span>java8<span class="token operator">-</span>installer</code></pre><h2 id="Verify-and-check-again"><a href="#Verify-and-check-again" class="headerlink" title="Verify and check again"></a>Verify and check again</h2><pre class=" language-java"><code class="language-java">root<span class="token annotation punctuation">@ubuntu</span><span class="token operator">:</span><span class="token operator">/</span>home<span class="token operator">/</span>app# java <span class="token operator">-</span>versionjava version <span class="token string">"1.8.0_72"</span><span class="token function">Java</span><span class="token punctuation">(</span>TM<span class="token punctuation">)</span> SE Runtime <span class="token function">Environment</span> <span class="token punctuation">(</span>build <span class="token number">1.8</span><span class="token punctuation">.</span>0_72<span class="token operator">-</span>b15<span class="token punctuation">)</span>Java <span class="token function">HotSpot</span><span class="token punctuation">(</span>TM<span class="token punctuation">)</span> <span class="token number">64</span><span class="token operator">-</span>Bit Server <span class="token function">VM</span> <span class="token punctuation">(</span>build <span class="token number">25.72</span><span class="token operator">-</span>b15<span class="token punctuation">,</span> mixed mode<span class="token punctuation">)</span></code></pre><h2 id="Configuring-Java-Environment"><a href="#Configuring-Java-Environment" class="headerlink" title="Configuring Java Environment"></a>Configuring Java Environment</h2><p>In Webupd8 ppa repository also providing a package to set environment variables, Install this package using following command.</p><pre class=" language-java"><code class="language-java">$ sudo apt<span class="token operator">-</span>get install oracle<span class="token operator">-</span>java8<span class="token operator">-</span>set<span class="token operator">-</span><span class="token keyword">default</span></code></pre><h2 id="Finally"><a href="#Finally" class="headerlink" title="Finally"></a>Finally</h2><p>Congratulations! you have success installed java8 in your ubuntu!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Ubuntu-build-Java8-environment&quot;&gt;&lt;a href=&quot;#Ubuntu-build-Java8-environment&quot; class=&quot;headerlink&quot; title=&quot;Ubuntu build Java8 environment&quot;&gt;
+      
+    
+    </summary>
+    
+      <category term="服务器" scheme="http://www.chenqinfeng.cn/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+      <category term="Ubuntu" scheme="http://www.chenqinfeng.cn/tags/Ubuntu/"/>
+    
+      <category term="Java8" scheme="http://www.chenqinfeng.cn/tags/Java8/"/>
+    
+      <category term="apt-get install java ubuntu" scheme="http://www.chenqinfeng.cn/tags/apt-get-install-java-ubuntu/"/>
+    
+  </entry>
+  
+</feed>
